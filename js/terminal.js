@@ -59,8 +59,8 @@ document.addEventListener('DOMContentLoaded', () => {
 <div class="terminal-output-line success">=== DIRECT CONTACT INFO ===</div>
 <div>📧 Email:    <a href="mailto:karthikreguri14@gmail.com" style="color:#38bdf8">karthikreguri14@gmail.com</a></div>
 <div>📞 Phone:    +91-8019177683</div>
-<div>🔗 LinkedIn: <a href="https://linkedin.com/in/karthik-reguri-010983330" target="_blank" style="color:#38bdf8">karthik-reguri-010983330</a></div>
-<div>💻 GitHub:   <a href="https://github.com/karthikreguri14-commits" target="_blank" style="color:#38bdf8">karthikreguri14-commits</a></div>
+<div>🔗 LinkedIn: <a href="https://www.linkedin.com/in/karthikchandh-reguri-010983330" target="_blank" style="color:#38bdf8">karthikchandh-reguri-010983330</a></div>
+<div>💻 GitHub:   <a href="https://github.com/Regurikarthik14" target="_blank" style="color:#38bdf8">Regurikarthik14</a></div>
 `,
     'hire': () => `
 <div class="terminal-output-line highlight">=== WHY HIRE REGURI KARTHIKCHANDH? ===</div>
